@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/*.log
+
+docs/
+plans/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
